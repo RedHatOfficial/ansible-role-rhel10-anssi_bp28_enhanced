@@ -282,6 +282,7 @@ package_dnf_automatic_installed: true
 package_kea_removed: true
 package_logrotate_installed: true
 package_rsyslog_gnutls_installed: true
+package_sequoia_sq_installed: true
 package_sssd_installed: true
 package_sudo_installed: true
 package_telnet_removed: true
